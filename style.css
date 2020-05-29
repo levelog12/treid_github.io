@@ -1,0 +1,27 @@
+.img{margin-left: 340px;}
+
+body{background: url(img/Screenshot_3.png);}
+
+.inv{
+font-size:50px;
+padding-left: 400px;
+color:Goldenrod;}
+
+.treid{
+font-size:40px;
+color:DarkMagenta;}
+
+.free{
+padding-left:300px;
+font-size:40px;
+color:Goldenrod;}
+
+.frie{
+font-size:20px;
+color: ForestGreen;}
+
+.vk{
+color:blue;
+font-size:40px;
+background-color: Goldenrod;
+}
